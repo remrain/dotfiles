@@ -8,7 +8,7 @@ return {
       -- ensure_installed = { "lua_ls" },
       ensure_installed = {
         "bashls", "clangd", "cssls", "dockerls", "eslint", "gopls", "html", "jsonls",
-        "sqlls", "yamlls", "lua_ls",
+        "sqlls", "yamlls", "lua_ls", "vuels", "pyright",
       },
     },
   },
